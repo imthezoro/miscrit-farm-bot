@@ -4,7 +4,7 @@ Automate your Miscrits gameplay and level up while you chill! This tool handles:
 
 - ✅ **Auto-training** your Miscrits  
 - ⚔️ **Automated forest battles**  
-- 🧠 **Miscrits Capture**  
+- 🧠 **Auto Capture Miscrits**  
 - 🖱️ **Screen interaction via image recognition**
 
 Whether you're grinding for levels or farming items, this tool saves you hours of manual work.
@@ -19,4 +19,4 @@ I'm opening access to a few testers and early users.
 
 ---
 
-⭐ Depending on the User Sign-up it will be released soon!!
+⭐ Depending on the number of User Sign-ups it will be released as early as possible!!
