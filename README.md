@@ -19,4 +19,4 @@ I'm opening access to a few testers and early users.
 
 ---
 
-⭐ Depending on the number of User Sign-ups it will be released as early as possible!!
+⭐ Fill the form for early access!!
