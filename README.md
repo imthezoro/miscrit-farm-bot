@@ -53,7 +53,7 @@ If `requirements.txt` is missing, install the following manually:
 pip install pyautogui pytesseract opencv-python pillow pygame
 ```
 
-Also make sure [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) is installed and added to your system PATH.
+Also make sure [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) is installed and added to your system PATH.[CAN SKIP](Not needed at the moment)
 
 #### 🗂️ Step 4: Set Up Folder Structure
 
