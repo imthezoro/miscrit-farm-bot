@@ -18,6 +18,8 @@ Miscrit Bot is an automation tool designed to help players with farming, trainin
 
 ## 📦 Installation
 
+###VIDEO GUIDE : https://youtu.be/_uAy6j7__yk
+
 ### 🛠️ Executable Version
 
 - 📥 [Download the latest release ZIP file](https://drive.google.com/file/d/1c8Pj3EMRmELGzr2vUX3NnGFEXyb8yjmu/view?usp=sharing)
