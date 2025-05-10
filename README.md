@@ -14,66 +14,23 @@ Miscrit Bot is an automation tool designed to help players with farming, trainin
 ## 🧰 Requirements
 
 - 🪟 Windows operating system
-- 🐍 Python 3.6+ (if running from source)
 - 🌐 The game open in your browser window
 
 ## 📦 Installation
 
-### 🛠️ Option 1: Executable Version
+### 🛠️ Executable Version
 
 - 📥 [Download the latest release ZIP file](https://drive.google.com/file/d/1c8Pj3EMRmELGzr2vUX3NnGFEXyb8yjmu/view?usp=sharing)
 - 🗂️ Extract all files to a folder of your choice
 - 📁 Make sure you have the correct folder structure (see below)
 - ▶️ Run `MiscritBot.exe`
-
-### 🐍 Option 2: Run from Python Source Code
-
-If you prefer to run the bot using Python instead of the executable:
-
-#### 🔧 Step 1: Install Python
-
-- Download Python 3.10+ from [python.org](https://www.python.org/downloads/)
-- During installation, make sure to check ✅ "Add Python to PATH"
-
-#### 🗃️ Step 2: Clone or Extract the Bot Source Code
-
-- Clone this repository or extract the ZIP file into a folder
-
-#### 📥 Step 3: Install Dependencies
-
-Open a terminal or command prompt in the project folder and run:
-
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is missing, install the following manually:
-
-```bash
-pip install pyautogui pytesseract opencv-python pillow pygame
-```
-
-Also make sure [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) is installed and added to your system PATH.[CAN SKIP](Not needed at the moment)
-
-#### 🗂️ Step 4: Set Up Folder Structure
-
-Ensure that your images and audio folders follow the exact structure shown below (see **Folder Structure** section).
-
-#### ▶️ Step 5: Run the Bot
-
-In the terminal, run:
-
-```bash
-python MiscritBot.py
-```
-
 - The bot UI will open
 - Select your image folder and options, then click **Start**
 - Switch to the game window quickly when prompted
 
 ## 📁 Folder Structure
 
-The bot requires a specific folder structure for storing game element images. Create the following folders and add the respective image files:
+The bot requires a specific folder structure for storing game element images:
 
 ```
 root/
@@ -192,6 +149,7 @@ The bot is optimized to work with 5× speed, giving you faster battles and quick
 ### 🐛 Reporting Issues
 
 If you encounter any problems, report them here: [Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSc_Hn2OrxSkrdkpUN4NT9jUqCptzRni7QbWpxD6XxxH8vjr2Q/viewform?usp=dialog)
+Will be addresses asap.
 
 ---
 
