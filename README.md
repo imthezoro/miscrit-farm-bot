@@ -22,7 +22,7 @@ Miscrit Bot is an automation tool designed to help players with farming, trainin
 
 ### 🛠️ Executable Version
 
-- 📥 [Download the latest release ZIP file](https://drive.google.com/file/d/1c8Pj3EMRmELGzr2vUX3NnGFEXyb8yjmu/view?usp=sharing)
+- 📥 [Download the latest release ZIP file](https://tinyurl.com/mr5pc8pk)
 - 🗂️ Extract all files to a folder of your choice
 - 📁 Make sure you have the correct folder structure (see below)
 - ▶️ Run `MiscritBot.exe`
